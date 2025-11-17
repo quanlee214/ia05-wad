@@ -1,0 +1,8 @@
+export const IMAGE_DIMENSIONS = {
+  THUMBNAIL_WIDTH: 500,
+  THUMBNAIL_HEIGHT: 350,
+  CARD_ASPECT_RATIO: '5/4',
+  DETAIL_MAX_HEIGHT: '70vh',
+} as const;
+
+export const PAGE_SIZE = 20;
